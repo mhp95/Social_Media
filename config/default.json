@@ -1,5 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://mhp123:Mhp123@devconnector.sfsri.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://xxx:xxx@devconnector.sfsri.mongodb.net/<dbname>?retryWrites=true&w=majority"
 
 
 
